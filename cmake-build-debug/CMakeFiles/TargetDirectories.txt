@@ -1,0 +1,3 @@
+/Users/luncenok/Library/CloudStorage/OneDrive-put.poznan.pl/OP/cmake-build-debug/CMakeFiles/OP.dir
+/Users/luncenok/Library/CloudStorage/OneDrive-put.poznan.pl/OP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luncenok/Library/CloudStorage/OneDrive-put.poznan.pl/OP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
